@@ -1,0 +1,27 @@
+# Data Analytics Workshop Requirements
+# Install with: pip install -r requirements.txt
+
+# Core Data Analysis Libraries
+pandas>=1.5.0
+numpy>=1.20.0
+
+# Visualization Libraries
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Jupyter Environment
+jupyter>=1.0.0
+notebook>=6.4.0
+ipykernel>=6.0.0
+
+# Additional Utilities
+openpyxl>=3.0.0  # For Excel file support
+xlrd>=2.0.0      # For legacy Excel files
+
+# Optional: Enhanced Jupyter Experience
+jupyterlab>=3.0.0  # Alternative to classic notebook
+
+# Development Tools (Optional)
+black>=22.0.0      # Code formatter
+flake8>=4.0.0      # Linter
